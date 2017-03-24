@@ -1,0 +1,78 @@
+.main_cont{
+	background-color: black;
+	height: 300px;
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 15px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+.photo{
+	width: 30%;
+	height: auto;
+	background-color: white;
+	order: 1;
+	margin:5px;
+}
+.desc{
+	width: 70%;
+	height: auto;
+	background-color: white;
+	order: 2;
+	margin:5px;
+}
+.person{
+	text-align: center;
+	font-size: 3.25em;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+}
+.photo_1{
+	background-image: url(images/Vannevar_Bush_portrait.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.photo_2{
+	background-image: url(images/220px-Douglas_Engelbart_in_2008.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.photo_3{
+	background-image: url(images/220px-Ted_Nelson_cropped.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.photo_4{
+	background-image: url(images/220px-Steve_Jobs_Headshot_2010-CROP.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.photo_5{
+	background-image: url(images/stephen-wozniak-9537334-1-402.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.photo_6{
+	background-image: url(images/Berners-Lee_Tim.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.photo_7{
+	background-image: url(images/asset1380302975.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.photo_8{
+	background-image: url(images/eric_bina.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.photo_9{
+	background-image: url(images/rob_hartill.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.photo_10s{
+	background-image: url(images/lou_montulli.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
