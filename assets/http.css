@@ -22,12 +22,31 @@
 	height: 300px;
 	width: 400px;
 }
+	.desc{
+		font-size: 1.1em;
+		margin-left: 80px;
+		margin-right: 80px;
+	}
+	.center{
+		margin:auto;
+		width: 50%;
+	}
 }
 
 /* Small screens */
 @media (max-width: 500px) {
 	.diagram{
-		height: 100px;
+		height: 200px;
 		width: 300px;
 	}
+	.desc{
+		font-size: .9em;
+		margin-left: 60px;
+		margin-right: 60px;
+	}
+	.center{
+		margin:auto;
+		width: 50%;
+	}
+
 }
