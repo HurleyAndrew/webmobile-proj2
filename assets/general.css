@@ -1,6 +1,10 @@
 *{
 	box-sizing: border-box;
 	list-style: none;
+
+}
+body{
+	background-color: #59b4f9;
 }
 a{
 	text-decoration: none;
@@ -30,7 +34,7 @@ ul{
 .nav_item{
 	order: 1;
 	flex-grow: 1;
-	background-color: orange;
+	background-color: #f2db50;
 	text-align: center;
 	font-size: 2em;
 	line-height: 1.9em;
@@ -50,4 +54,23 @@ ul{
 	text-align: center;
 	font-family: roboto;
 	margin-bottom: 20px;
+}
+
+@media (max-width: 800px) {
+  .nav_item{
+	font-size: 2em;
+}
+.title{
+	font-size: 4em;
+}
+}
+
+/* Small screens */
+@media (max-width: 500px) {
+  .nav_item{
+	font-size: 2em;
+}
+.title{
+	font-size: 2em;
+}
 }

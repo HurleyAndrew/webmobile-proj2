@@ -1,7 +1,7 @@
 .diagram{
 	height: 600px;
 	background-image: url(images/request.png);
-	background-size:cover;
+	background-size:contain;
 	background-repeat: no-repeat;
 	margin-right: 200px;
 	margin-left: 200px;
