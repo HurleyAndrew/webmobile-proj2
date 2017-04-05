@@ -58,7 +58,8 @@ ul{
 
 @media (max-width: 800px) {
   .nav_item{
-	font-size: 2em;
+	font-size: 1.2em;
+	  line-height: 3em;
 }
 .title{
 	font-size: 4em;
@@ -68,9 +69,10 @@ ul{
 /* Small screens */
 @media (max-width: 500px) {
   .nav_item{
-	font-size: 2em;
+	font-size: 1.2em;
+	  line-height: 3em;
 }
 .title{
-	font-size: 2em;
+	font-size: 3.5em;
 }
 }

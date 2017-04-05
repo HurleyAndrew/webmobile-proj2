@@ -32,10 +32,15 @@
 	.person{
 	font-size: 2.5em;
 }
-.desc{
-	font-size: 25px;
+	.main_cont{
 
-}
+		height: 200px;
+
+	}
+	.desc{
+		font-size: 18px;
+
+	}
 }
 
 /* Small screens */
@@ -43,15 +48,15 @@
 	.person{
 	font-size: 2.0em;	
 }
-.desc{
-	width: 70%;
-	height: auto;
-	background-color: #f2db50;
-	order: 2;
-	margin:3px;
-	font-size: 15px;
+	.main_cont{
 
-}
+	height: 120px;
+	font-size: 5px;
+	}
+	.desc{
+		font-size: 12px;
+
+	}
 }
 .photo_1{
 	background-image: url(images/Vannevar_Bush_portrait.jpg);

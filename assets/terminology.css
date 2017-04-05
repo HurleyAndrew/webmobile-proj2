@@ -82,8 +82,9 @@ p{
 @media (max-width: 800px) {
     .modal_item{
 
-        height: 150px;
+        height: 350px;
         width: 300px;
+		font-size: 1em;
 
     }
 }
@@ -92,8 +93,9 @@ p{
 @media (max-width: 500px) {
     .modal_item{
 
-        height: 150px;
+        height: 350px;
         width: 300px;
+		font-size: 1em;
 
     }
 }
