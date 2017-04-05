@@ -26,6 +26,8 @@
 
 /* Small screens */
 @media (max-width: 500px) {
-	height: 100px;
-	width: 300px;
+	.diagram{
+		height: 100px;
+		width: 300px;
+	}
 }

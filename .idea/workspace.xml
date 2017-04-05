@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dcdcbcf-68cb-4ea4-8bf7-5881e61bce96" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/general.css" afterPath="$PROJECT_DIR$/assets/general.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/http.css" afterPath="$PROJECT_DIR$/assets/http.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/pioneers.css" afterPath="$PROJECT_DIR$/assets/pioneers.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/terminology.css" afterPath="$PROJECT_DIR$/assets/terminology.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/http.html" afterPath="$PROJECT_DIR$/http.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,8 +30,8 @@
       <file leaf-file-name="http.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/http.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="450">
+              <caret line="30" column="8" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -653,12 +648,12 @@
       <updated>1491312336990</updated>
       <workItem from="1491312338470" duration="242000" />
       <workItem from="1491312876789" duration="3810000" />
-      <workItem from="1491363854654" duration="1808000" />
+      <workItem from="1491363854654" duration="1911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5860000" />
+    <option name="totallyTimeSpent" value="5963000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -993,8 +988,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/http.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="450">
+          <caret line="30" column="8" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
           <folding />
         </state>
       </provider>
