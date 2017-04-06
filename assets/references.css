@@ -1,0 +1,31 @@
+.cite_container{
+    text-align: left;
+    font-size: 120%;
+    width:70%;
+    margin:auto;
+}
+.photo_title{
+    text-align: center;
+    font-size: 200%;
+}
+.hanging_indent{
+    text-indent: -42px;
+    margin-left:32px;
+}
+@media (max-width: 800px) {
+    .cite_container{
+
+        width:90%;
+        font-size: 80%;
+    }
+}
+
+/* Small screens */
+@media (max-width: 500px) {
+    .cite_container{
+
+        width:90%;
+        font-size: 70%;
+
+    }
+}
